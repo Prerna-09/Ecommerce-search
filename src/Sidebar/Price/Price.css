@@ -1,0 +1,10 @@
+.price{
+    margin-top: 70px;
+}
+
+.Price-labels{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    
+}

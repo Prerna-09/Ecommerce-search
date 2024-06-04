@@ -1,0 +1,25 @@
+.recommend{
+    margin-top: 20px;
+    margin-left: 12rem;
+}
+
+.links-recomm{
+    display: flex;
+    align-items: center;
+    justify-content:flex-start;
+    gap:30px;
+}
+
+
+.button-recommended{
+    padding: 10px 15px;
+    background-color: #BA91F2;
+    color: black;
+    border-radius: 5px;
+    cursor: pointer;
+    &:hover{
+        background-color: white;
+        color: #BA91F2;
+    }
+}
+

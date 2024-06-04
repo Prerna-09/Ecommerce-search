@@ -1,0 +1,34 @@
+.card-container{
+ margin: 89px;
+ 
+ display: flex;
+ flex-wrap: wrap;
+ align-items: center;
+ justify-content: space-between;
+
+}
+
+ .card{
+    
+    margin: 20px;
+    width: 300px;
+    border: 1px solid #BA91F2;
+    margin-left: 5rem;
+    border-radius: 5px;
+
+}
+
+.card-img{
+    height: 150px;
+    width: 250px;
+}
+
+.card-details{
+    margin: 20px;
+}
+
+.last{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

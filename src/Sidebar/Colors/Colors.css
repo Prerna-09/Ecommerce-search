@@ -1,0 +1,10 @@
+.colors{
+    margin-top: 70px;
+}
+
+.colors-labels{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    
+}
