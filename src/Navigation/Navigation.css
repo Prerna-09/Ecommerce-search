@@ -1,14 +1,19 @@
 .nav{
     display: flex;
     justify-content: space-around;
-    align-items: center;
-
-    
+    margin-left: 8.5rem;
+    align-items: center; 
     padding: 10px;
     border-bottom:  1px solid black;
     z-index: 999;
-   
     background-color: #BA91F2;
+}
+
+@media screen and (max-width:650px){
+    .nav{
+      margin-left: 80px;
+
+    }
 }
 
 
